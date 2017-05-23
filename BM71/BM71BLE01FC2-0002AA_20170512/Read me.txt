@@ -1,0 +1,10 @@
+Date: 2017/05/12
+============================
+Add test item 9850 by Nelson
+Operation mode: verify only
+verify mode: quick
+
+Add test item 9870 by Nelson
+Operation mode: verify only
+verify mode: quick
+============================

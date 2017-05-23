@@ -1,0 +1,17 @@
+Date: 2017/05/02
+============================
+Add test item 9850
+Operation mode: verify only
+verify mode: quick
+
+Add test item 9870
+Operation mode: verify only
+verify mode: quick
+============================
+
+Date: 2017/05/18
+================================
+Correct 2680 min spec
+0B03AA	PL0	PL1	PL2	PL3	PL4	PL5
+min	-0.3	-6	-11	-16	-21	-26
+================================
