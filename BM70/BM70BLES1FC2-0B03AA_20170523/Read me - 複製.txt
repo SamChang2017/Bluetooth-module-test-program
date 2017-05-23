@@ -1,0 +1,20 @@
+Date: 2017/05/02
+============================
+Add test item 9850
+Operation mode: verify only
+verify mode: quick
+
+Add test item 9870
+Operation mode: verify only
+verify mode: quick
+============================
+
+Date: 2017/05/18
+================================
+Correct 2680 min spec
+================================
+
+Date: 2017/05/19
+================================
+Update GPIO setting
+================================
